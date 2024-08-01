@@ -1,0 +1,10 @@
+/* Solution rapide pour la font Inter */
+/* Habituellement, je télécharge les fonts sur Google aux différents formats, je le mets dans un dossier 'fonts'.
+Ensuite je les mappe dans le Sass avec @font-face.
+Enfin, je créé les variants associés dans 'tailwind.config.js' */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}

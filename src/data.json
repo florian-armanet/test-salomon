@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Highlight text 1",
+        "text": "“Shortney” – The running shorts by Courtney Dauwalter",
+        "image" : "/running.jpg",
+        "readingTime": "5 min",
+        "tags": ["Label 1"]
+    },
+    {
+        "id": 2,
+        "title": "Highlight text 2",
+        "text": "Short description of article 2",
+        "image" : "/running.jpg",
+        "readingTime": "3 min",
+        "tags": ["Label 2"]
+    },
+    {
+        "id": 3,
+        "title": "Highlight text 3",
+        "text": "Short description of article 3",
+        "image" : "/running.jpg",
+        "readingTime": "8 min",
+        "tags": ["Label 3", "Label 4"]
+    }
+]
